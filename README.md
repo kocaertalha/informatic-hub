@@ -1,2 +1,2 @@
 # informatic-hub
-About my general projects
+About my general projects and articles
